@@ -1,5 +1,5 @@
 <!-- Intro -->
-<h1 align="center">👋 Hi, I'm Kyle Aleck D. Gaurino</h1>
+<h1 align="center">👋 Hello, I'm Kyle Aleck D. Gaurino</h1>
 
 <p align="center">
 🎓 I'm currently a 4th Year BS Information Technology Student in National University - MOA<br/>
