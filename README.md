@@ -48,7 +48,7 @@
 ---
 
 ## 💼 Current Focus
-🚀 Building hands-on experience through internship opportunities in <b>Backend Development</b> or <b>QA Testing</b>,  
+🚀 Building hands-on experience through internship opportunities in <b>QA Testing</b>,  
 and continuously improving my skills in creating secure and efficient systems.  
 
 ---
