@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 I'm currently a 4th Year BS Information Technology Student in National University - MOA<br/>
-💡 Aspiring <b>Backend Developer</b> & <b>Quality Assurance Engineer</b>
+💡 Aspiring <b>Quality Assurance Engineer</b>
 </p>
 
 ---
