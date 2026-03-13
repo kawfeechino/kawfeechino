@@ -9,7 +9,6 @@
 ---
 
 ## 🧠 What I Do
-- ⚙️ <b>Backend Development</b> — building reliable APIs and server-side logic for scalable systems  
 - 🧩 <b>Quality Assurance</b> — ensuring functionality and user satisfaction  
 - 💬 <b>Collaboration</b> — working with teams to bring projects from concept to launch  
 
