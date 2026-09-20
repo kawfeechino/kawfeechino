@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 Magna Cum Laude Graduate at National University - MOA<br/>
-💡 Aspiring <b>Quality Assurance Engineer</b>
+💡 Aspiring <b>Quality Assurance Engineer/Software Developer</b>
 </p>
 
 ---
